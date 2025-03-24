@@ -2475,7 +2475,7 @@ if (m == 3 && dd == 8) {//妇女节
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
-l = ["非常抱歉，因为不可控原因，博客将于明天停止运营！", "好消息，日本没了！", "美国垮了，原因竟然是川普！", "微软垮了！", "你的电脑已经过载，建议立即关机！", "你知道吗？站长很喜欢你哦！", "一分钟有61秒哦", "你喜欢的人跟别人跑了！"]
+l = ["非常抱歉，因为不可控原因，博客将于明天停止运营！", "好消息，日本没了！", "你知道吗，我喜欢你~~~", "微软垮了！", "你的电脑已经过载，建议立即关机！", "你知道吗？站长很喜欢你哦！", "一分钟有61秒哦", "你喜欢的人跟别人跑了！"]
 if (m == 4 && dd == 1) {//愚人节，随机谎话
   if (sessionStorage.getItem("isPopupWindow") != "1") {
     Swal.fire(l[Math.floor(Math.random() * l.length)]);
@@ -2520,13 +2520,7 @@ if (m == 12 && dd == 25) {//圣诞节
 }
 if (m == 8 && dd == 11) {//站长生日
   if (sessionStorage.getItem("isPopupWindow") != "1") {
-    Swal.fire("祝站长" + (y - 1998).toString() + "岁生日快乐！🥝");
-    sessionStorage.setItem("isPopupWindow", "1");
-  }
-}
-if (m == 6 && dd == 30) {//小猫咪生日
-  if (sessionStorage.getItem("isPopupWindow") != "1") {
-    Swal.fire("祝小猫咪" + (y - 1999).toString() + "岁生日快乐！🐱");
+    Swal.fire("祝站长" + (y - 2010).toString() + "岁生日快乐！🥝");
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
@@ -2788,7 +2782,7 @@ function createtime() {
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("08/09/2022 00:00:00");
+  var grt = new Date("03/23/2025 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -2985,7 +2979,7 @@ function setUniverse() {
 
 // 雪花开关
 if (localStorage.getItem("snow") == undefined) {
-  localStorage.setItem("snow", "none");
+  localStorage.setItem("snow", "block");
 }
 document.getElementById("snow").style.display = localStorage.getItem("snow");
 function setSnow() {
@@ -3159,9 +3153,9 @@ let picsum = "url(https://picsum.photos/1920/1080.webp)";
 // 小歪二次元
 // let waiDongman = "url(https://api.ixiaowai.cn/api/api.php)";
 //  小歪高清壁纸
-let waiBizhi = "url(https://api.ixiaowai.cn/gqapi/gqapi.php)";
+// let waiBizhi = "url(https://api.ixiaowai.cn/gqapi/gqapi.php)";
 // 博天随机
-let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
+// let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 // tuapi 动漫
 // let tuapi = "url(https://tuapi.eees.cc/api.php?category=dongman)";
 // unsplash随机 https://source.unsplash.com/random/1920x1080/daily (weekly)

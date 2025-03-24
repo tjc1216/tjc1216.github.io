@@ -9476,14 +9476,6 @@ hr:before {
   left: 24px;
   content: "picsum随机壁纸";
 }
-#waiBizhiBox::before {
-  left: 34px;
-  content: "小歪高清壁纸";
-}
-#btstuBox::before {
-  left: 34px;
-  content: "博天随机壁纸";
-}
 #unsplashBox::before {
   left: 15px;
   content: "Unsplash随机壁纸";
