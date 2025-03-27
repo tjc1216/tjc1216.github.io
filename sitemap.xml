@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tjc1216.github.io/posts/fast.html</loc>
+    
+    <lastmod>2025-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tjc1216.github.io/posts/interesting.html</loc>
+    
+    <lastmod>2025-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tjc1216.github.io/categories/index.html</loc>
     
     <lastmod>2025-03-25</lastmod>
@@ -164,6 +182,13 @@
 
   
   <url>
+    <loc>https://tjc1216.github.io/tags/%E5%A8%B1%E4%B9%90/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://tjc1216.github.io/tags/Markdown/</loc>
     <lastmod>2025-03-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -177,10 +202,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://tjc1216.github.io/tags/%E6%8A%80%E5%B7%A7-%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
+    <loc>https://tjc1216.github.io/categories/%E5%A8%B1%E4%B9%90/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://tjc1216.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://tjc1216.github.io/categories/%E6%8A%80%E5%B7%A7-%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2025-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
