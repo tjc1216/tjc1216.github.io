@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tjc1216.github.io/posts/interesting.html</loc>
+    <loc>https://tjc1216.github.io/social/classhistory/index.html</loc>
     
     <lastmod>2025-03-29</lastmod>
     
@@ -12,6 +12,24 @@
   
   <url>
     <loc>https://tjc1216.github.io/social/class/index.html</loc>
+    
+    <lastmod>2025-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tjc1216.github.io/site/echarts/index.html</loc>
+    
+    <lastmod>2025-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tjc1216.github.io/posts/interesting.html</loc>
     
     <lastmod>2025-03-29</lastmod>
     
@@ -158,15 +176,6 @@
     <loc>https://tjc1216.github.io/box/animation/index.html</loc>
     
     <lastmod>2025-03-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tjc1216.github.io/site/echarts/index.html</loc>
-    
-    <lastmod>2022-09-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
