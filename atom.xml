@@ -6,7 +6,7 @@
   <link href="https://tjc1216.github.io/atom.xml" rel="self"/>
   
   <link href="https://tjc1216.github.io/"/>
-  <updated>2025-03-27T14:50:00.000Z</updated>
+  <updated>2025-03-29T01:00:00.000Z</updated>
   <id>https://tjc1216.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://tjc1216.github.io/posts/fast.html"/>
     <id>https://tjc1216.github.io/posts/fast.html</id>
     <published>2025-03-27T14:50:00.000Z</published>
-    <updated>2025-03-27T14:50:00.000Z</updated>
+    <updated>2025-03-29T01:00:00.000Z</updated>
     
     <content type="html"><![CDATA[<h1>windows快捷键</h1><h2 id="一般快捷键">一般快捷键</h2><kbd>Ctrl+1,2,3</kbd>切换到从左边数起第1,2,3...个标签<kbd>Ctrl+A</kbd>全部选中当前页面内容<kbd>Ctrl+C</kbd>复制当前选中内容<kbd>Ctrl+D</kbd>打开“添加收藏”面版(把当前页面添加到收藏夹中)<kbd>Ctrl+E</kbd>打开或关闭“搜索”侧边栏(各种搜索引擎可选)<kbd>Ctrl+F</kbd>打开“查找”面版<kbd>Ctrl+G</kbd>打开或关闭“简易收集”面板<kbd>Ctrl+H</kbd>打开“历史”侧边栏<kbd>Ctrl+I</kbd>打开“收藏夹”侧边栏/另:将所有垂直平铺或水平平铺或层叠的窗口恢复<kbd>Ctrl+K</kbd>关闭除当前和锁定标签外的所有标签<kbd>Ctrl+L</kbd>打开“打开”面版(可以在当前页面打开Iternet地址或其他文件...)<kbd>Ctrl+N</kbd>新建一个空白窗口(可更改,Maxthon选项→标签→新建)<kbd>Ctrl+O</kbd>打开“打开”面版(可以在当前页面打开Iternet地址或其他文件...)<kbd>Ctrl+P</kbd>打开“打印”面板(可以打印网页,图片什么的...)<kbd>Ctrl+Q</kbd>打开“添加到过滤列表”面板(将当前页面地址发送到过滤列表)<kbd>Ctrl+R</kbd>刷新当前页<kbd>Ctrl+S</kbd>打开“保存网页”面板(可以将当前页面所有内容保存下来)<kbd>Ctrl+T</kbd>垂直平铺所有窗口<kbd>Ctrl+V</kbd>粘贴当前剪贴板内的内容<kbd>Ctrl+W</kbd>关闭当前标签(窗口)<kbd>Ctrl+X</kbd>剪切当前选中内容(一般只用于文本操作)<kbd>Ctrl+Y</kbd>重做刚才动作(一般只用于文本操作)<kbd>Ctrl+Z</kbd>撤消刚才动作(一般只用于文本操作)<kbd>Ctrl+F4</kbd>关闭当前标签(窗口)<kbd>Ctrl+F5</kbd>刷新当前页面<kbd>Ctrl+F6</kbd>按页面打开的先后时间顺序向前切换标签(窗口)<kbd>Ctrl+F11</kbd>隐藏或显示菜单栏<kbd>Ctrl+Tab</kbd>以小菜单方式向下切换标签(窗口)<kbd>Ctrl+拖</kbd>保存该链接的地址或已选中的文本或指定的图片到一个文件夹中(保存目录可更改,Maxthon选项→保存)<kbd></kbd>]]></content>
     
