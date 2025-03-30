@@ -3169,8 +3169,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://images.wallpaperscraft.com/image/single/form_light_abstraction_76089_1280x720.jpg);
     --darkmode-bg:url(https://images.wallpaperscraft.com/image/single/landscape_blue_tree_92069_1280x720.jpg);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --mobileday-bg: url(https://images.wallpaperscraft.com/image/single/mountains_water_tops_1120_480x800.jpg);
+    --mobilenight-bg: url(https://images.wallpaperscraft.com/image/single/space_background_blue_73340_480x800.jpg);
   }`;
 }
 // 切换背景主函数
