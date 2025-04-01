@@ -3167,7 +3167,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://images.wallpaperscraft.com/image/single/form_light_abstraction_76089_1280x720.jpg);
+    --default-bg: url(https://images.wallpaperscraft.com/image/single/ocean_horizon_sunset_135214_1280x720.jpg);
     --darkmode-bg:url(https://images.wallpaperscraft.com/image/single/landscape_blue_tree_92069_1280x720.jpg);
     --mobileday-bg: url(https://images.wallpaperscraft.com/image/single/mountains_water_tops_1120_480x800.jpg);
     --mobilenight-bg: url(https://images.wallpaperscraft.com/image/single/space_background_blue_73340_480x800.jpg);
